@@ -5,7 +5,7 @@ This project was developed as part of the Machine Learning course at the Univers
 
 Click the badge below to open the project directly in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/drive/1mxCFITgMnYJ7-dqU5kz1vqrMwLHlU-Vc?usp=sharing)]
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mxCFITgMnYJ7-dqU5kz1vqrMwLHlU-Vc?usp=sharing)
 
 ---
 
